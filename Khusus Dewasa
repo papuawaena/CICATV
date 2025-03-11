@@ -1,4 +1,56 @@
+Whitelabel Error Page
 
+This application has no explicit mapping for /error, so you are seeing this as a fallback.
+There was an unexpected error 
+            
+         (type=Not Found, status=404).
+
+
+
+
+
+
+███████▓█████▓▓╬╬╬╬╬╬╬╬▓███▓╬╬╬╬╬╬╬▓╬╬▓█ 
+████▓▓▓▓╬╬▓█████╬╬╬╬╬╬███▓╬╬╬╬╬╬╬╬╬╬╬╬╬█ 
+███▓▓▓▓╬╬╬╬╬╬▓██╬╬╬╬╬╬▓▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ 
+████▓▓▓╬╬╬╬╬╬╬▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ 
+███▓█▓███████▓▓███▓╬╬╬╬╬╬▓███████▓╬╬╬╬▓█ 
+████████████████▓█▓╬╬╬╬╬▓▓▓▓▓▓▓▓╬╬╬╬╬╬╬█ 
+███▓▓▓▓▓▓▓╬╬▓▓▓▓▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ 
+████▓▓▓╬╬╬╬▓▓▓▓▓▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ 
+███▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ 
+█████▓▓▓▓▓▓▓▓█ YOYO - TV ╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ 
+█████▓▓▓▓▓▓▓██▓▓▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬██ 
+█████▓▓▓▓▓████▓ YOYO - TV ╬╬╬╬╬╬╬╬╬╬╬╬██ 
+████▓█▓▓▓▓██▓▓▓▓██╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬██ 
+████▓▓███▓▓▓▓▓▓▓██▓╬╬╬╬╬╬╬╬╬╬╬╬█▓╬▓╬╬▓██ 
+█████▓███▓▓▓▓▓▓▓▓████▓▓╬╬╬╬╬╬╬█▓╬╬╬╬╬▓██ 
+█████▓▓█▓███▓▓▓████╬▓█▓▓╬╬╬▓▓█▓╬╬╬╬╬╬███ 
+██████▓██▓███████▓╬╬╬▓▓╬▓▓██▓╬╬╬╬╬╬╬▓███ 
+███████▓██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓╬╬╬╬╬╬╬╬╬╬╬████ 
+███████▓▓██▓▓  YOYO - TV  ╬╬╬╬╬╬╬╬╬▓████ 
+████████▓▓▓█████▓▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█████ 
+█████████▓▓▓█▓▓▓▓▓███▓╬╬╬╬╬╬╬╬╬╬╬▓██████ 
+██████████▓▓▓█▓▓▓╬▓██╬╬╬╬╬╬╬╬╬╬╬▓███████ 
+███████████▓▓█▓▓▓▓███▓╬╬╬╬╬╬╬╬╬▓████████ 
+██████████████▓▓▓███▓▓╬╬╬╬╬╬╬╬██████████ 
+███████████████▓▓▓██▓▓╬╬╬╬╬╬▓███████████
+
+
+
+
+
+
+
+
+
+
+                                                 
+
+                     ############################### "INSTRUMENT|MANDARIN|SONG" ##################################
+
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd1sjfQ/In-Shot-20231219-072639617.jpg" group-title="INSTRUMENT|MANDARIN|SONG",INSTRUMENT.01-鍐欑湡绉
 https://ckzy1com.com/20230220/LJFmKUC7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd1sjfQ/In-Shot-20231219-072639617.jpg" group-title="INSTRUMENT|MANDARIN|SONG",INSTRUMENT.02-婵�鎯呰鎯
@@ -23,6 +75,7 @@ https://vod2.ttbfp4.com/20220901/aftA8SZC/index.m3u8
 https://vod2.ttbfp4.com/20220901/pKXhmzZL/index.m3u8
 
 
+                 ############################### "HEYZOTV" ###############################
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd1sjfQ/In-Shot-20231219-072639617.jpg" group-title="HEYZOTV",102510-517淫荡的家政妇
 http://video1.rhsj520.com:8091/nyrm3/jlb-112/102510-517/1500kb/hls/index.m3u8
@@ -208,36 +261,37 @@ https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1981_full/1500kb/hls/index.m3u8
 
 
 
+                           ############################### "馃嵐" ###############################
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵐9浼犲獟01
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵐9浼犲獟01
 https://d862cp.cdnedge.live/file/avple-images/hls/632acc3114e2941c8eb055c8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵐9浼犲獟02
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵐9浼犲獟02
 https://w9n76.cdnedge.live/file/avple-images/hls/632acdd514e2941c8eb055cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵐9浼犲獟03
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵐9浼犲獟03
 https://8bb88.cdnedge.live/file/avple-images/hls/632acd5d14e2941c8eb055cc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵐9浼犲獟04
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵐9浼犲獟04
 https://je40u.cdnedge.live/file/avple-images/hls/632acc7114e2941c8eb055c9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵐9浼犲獟05
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵐9浼犲獟05
 https://d862cp.cdnedge.live/file/avple-images/hls/632acd2014e2941c8eb055cb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵐9浼犲獟06
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵐9浼犲獟06
 https://w9n76.cdnedge.live/file/avple-images/hls/632acd2014e2941c8eb055ca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟01
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵎9浼犲獟01
 https://10j99.cdnedge.live/file/avple-images/hls/63284e728ad37673010a6937/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟02
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵎9浼犲獟02
 https://8bb88.cdnedge.live/file/avple-images/hls/63284dfb8ad37673010a6936/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟03
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵎9浼犲獟03
 https://10j99.cdnedge.live/file/avple-images/hls/63284eae8ad37673010a6938/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟04
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵎9浼犲獟04
 https://e2fa6.cdnedge.live/file/avple-images/hls/6328553d8ad37673010a6942/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟05
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵎9浼犲獟05
 https://8bb88.cdnedge.live/file/avple-images/hls/632851f68ad37673010a693e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟06
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵎9浼犲獟06
 https://e2fa6.cdnedge.live/file/avple-images/hls/6328526f8ad37673010a693f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟07
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵎9浼犲獟07
 https://8bb88.cdnedge.live/file/avple-images/hls/632852aa8ad37673010a6940/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟08
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵎9浼犲獟08
 https://10j99.cdnedge.live/file/avple-images/hls/6328535d8ad37673010a6941/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟09
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="馃嵐",馃嵎9浼犲獟09
 https://u89ey.cdnedge.live/file/avple-images/hls/632851428ad37673010a693d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵎9浼犲獟10
 https://1xp60.cdnedge.live/file/avple-images/hls/63284ccf8ad37673010a6935/playlist.m3u8
